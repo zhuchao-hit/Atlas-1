@@ -32,9 +32,8 @@ Atlas是由 Qihoo 360,  Web平台部基础架构团队开发维护的一个基�
 
 ① 普通链接：
 
-[Google](http://www.google.com/)
+[Atlas的安装](http://github.com/Qihoo360/Atlas/wiki/Atlas的安装)
 
-[Atlas的安装](https://github.com/Qihoo360/Atlas/wiki/Atlas的安装/）
 
 ###附名字来源：
     Atlas，希腊神话中双肩撑天的巨人，普罗米修斯的兄弟，最高大强壮的神之一，因反抗宙斯失败而被罚顶天。我们期望这个系统能够脚踏后端DB，为前端应用撑起一片天。
