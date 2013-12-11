@@ -2,7 +2,7 @@
 
 Atlas是由 Qihoo 360,  Web平台部基础架构团队开发维护的一个基于MySQL协议的数据中间层项目。它在MySQL官方推出的MySQL-Proxy 0.8.2版本的基础上，修改了大量bug，添加了很多功能特性。目前该项目在360公司内部得到了广泛应用，很多MySQL业务已经接入了Atlas平台，每天承载的读写请求数达几十亿条。
     
-###主要功能：
+主要功能：
 
 (1).读写分离
 
@@ -29,9 +29,12 @@ Atlas是由 Qihoo 360,  Web平台部基础架构团队开发维护的一个基�
 ###三、Atlas详细说明
 
 
-[Atlas的安装](http://github.com/Qihoo360/Atlas/wiki/Atlas的安装)
+[1.Atlas的安装](http://github.com/Qihoo360/Atlas/wiki/Atlas的安装)
+[2.Atlas的运行及常见问题](http://github.com/Qihoo360/Atlas/wiki/Atlas的运行及常见问题)
+[3.Atlas的分表功能简介](http://github.com/Qihoo360/Atlas/wiki/Atlas的分表功能简介)
 
 
 ###附名字来源：
-    Atlas，希腊神话中双肩撑天的巨人，普罗米修斯的兄弟，最高大强壮的神之一，因反抗宙斯失败而被罚顶天。我们期望这个系统能够脚踏后端DB，为前端应用撑起一片天。
+
+Atlas，希腊神话中双肩撑天的巨人，普罗米修斯的兄弟，最高大强壮的神之一，因反抗宙斯失败而被罚顶天。我们期望这个系统能够脚踏后端DB，为前端应用撑起一片天。
 
