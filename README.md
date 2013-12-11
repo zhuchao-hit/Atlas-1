@@ -30,6 +30,10 @@ Atlas是由 Qihoo 360,  Web平台部基础架构团队开发维护的一个基�
 
 ### 1.行内式
 
+① 普通链接：
+
+[Google](http://www.google.com/)
+
 [Atlas的安装](https://github.com/Qihoo360/Atlas/wiki/Atlas的安装）
 
 ###附名字来源：
